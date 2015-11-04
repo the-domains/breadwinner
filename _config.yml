@@ -1,6 +1,6 @@
 name: breadwinner
 favicon: null
-layout_spectrum: 0.3468728200532496
+layout_spectrum: 0.5147
 typography_spectrum: 0.6982105334755033
 title: Breadwinner
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.46092968713492155
+  brandStrength: 0.125
   lightness: 0.8888796775136143
   saturation: 0.07709008897654712
   rhythmicContrast: 0.7506946395151317
